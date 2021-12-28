@@ -1,2 +1,2 @@
 # Leetcode--Questions-List
-coding interview algorithm questions and answers - LeetCode 
+LeetCoding coding algorithm questions and answers - By Thoybur Rohman
