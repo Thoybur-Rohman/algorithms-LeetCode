@@ -1,0 +1,6 @@
+1 - Use 2 if loops ( I and j ) , 
+1.1 - j will be i + 1 as you want the second number not the firt 1 
+2 -The first if loop will get the array position the second loop will be used to add the first position ( I ) to j .
+3 -  If the number at j eg lets say its 5 and the sum is 9 so 9 - i lets say i = 4 then Sum ( 9 ) - i ( 4 ) = 5 
+4 - it wil then return i andf j in an int [] array as it asks for it 
+5 else outside it returns null In case there is no solution, we'll just return null
