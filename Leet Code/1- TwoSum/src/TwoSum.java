@@ -6,8 +6,8 @@ public class TwoSum {
     public static void main(String[] args) {
 
         int [] numbs = {2,7,11,15};
-        twoSum1(numbs,9);
-        twoSum2(numbs,9);
+        //twoSum1(numbs,9);
+       // twoSum2(numbs,9);
         twoSum3(numbs,9);
     }
 
@@ -44,20 +44,22 @@ public class TwoSum {
             return null;
         }
 
-
-
-
             //Solution 2
             public static int[] twoSum3(int[] nums, int target) {
                 Map<Integer, Integer> map = new HashMap<>();
                 for (int i = 0; i < nums.length; i++) {
                     int complement = target - nums[i];
                     if (map.containsKey(complement)) {
-                        return new int[] { map.get(complement), i };
+
+                        // this gets the key value
+                        return map.getKey();
+
                     }
-                    map.put(nums[i], i);
+                    map.put(i, nums[i]);
+
                 }
                 // In case there is no solution, we'll just return null
+
                 return null;
             }
         }
