@@ -52,7 +52,7 @@ public class TwoSum {
                     if (map.containsKey(complement)) {
 
                         // this gets the key value
-                        return map.getKey();
+                        return new int[] { map.get(complement), i };
 
                     }
                     map.put(i, nums[i]);
