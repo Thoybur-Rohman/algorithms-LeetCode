@@ -1,14 +1,55 @@
-import java.util.HashMap;
-import java.util.Map;
-
 public class lengthOfLongestSubstring {
     public static void main(String[] args) {
 
-        String s = "ABCDE";
+        String s = "pwwkew";
         lengthOfLongestSubstring(s);
 
     }
+
     public static int lengthOfLongestSubstring(String s) {
+
+        int length = 0;
+        int max = 0;
+        int A = 0;
+        int B ;
+        int n = s.length();
+         if (n < 2 )
+         {
+            return n;
+         }
+// pwwkew
+// A
+// 0123456
+//  B
+// 1
+        boolean[] hasAppeared = new boolean[128];
+
+         for ( B =  1 ; B < n ;B++) {
+             if (s.charAt(A) == s.charAt(B)) {
+                 length = Math.max(length, B - A);
+                 A++;
+             } else {
+                 length = Math.max(length, B - A);
+             }
+             if (max < length) {
+                 max = length;
+             }
+         }
+         System.out.println(max);
+        return max;
+    }
+
+
+
+
+
+
+
+
+
+
+
+/*    public static int lengthOfLongestSubstring(String s) {
         int n = s.length(), length = 0;
         Map<Character, Integer> map = new HashMap<>(); // current index of character
         // try to extend the range [i, j]
@@ -22,7 +63,7 @@ public class lengthOfLongestSubstring {
             map.put(s.charAt(j), j + 1);
         }
         return length;
-    }
+    }*/
 }
 
 

@@ -16,7 +16,7 @@ public class TwoSum {
         for (int i = 0; i < nums.length; i++) {
             for (int j = i + 1; j < nums.length; j++) {
                 if (nums[j] == target - nums[i]) {
-                    System.out.print("we found it");
+                    System.out.print("hi");
                     return new int[] { i, j };
 
                 }
@@ -35,9 +35,9 @@ public class TwoSum {
                 map.put(nums[i], i);
             }
             for (int i = 0; i < nums.length; i++) {
-                int sum = target - nums[i];
-                if (map.containsKey(sum) && map.get(sum) != i) {
-                    return new int[] { i, map.get(sum) };
+                int complement = target - nums[i];
+                if (map.containsKey(complement) && map.get(complement) != i) {
+                    return new int[] { i, map.get(complement) };
                 }
             }
             // In case there is no solution, we'll just return null
@@ -51,9 +51,9 @@ public class TwoSum {
             public static int[] twoSum3(int[] nums, int target) {
                 Map<Integer, Integer> map = new HashMap<>();
                 for (int i = 0; i < nums.length; i++) {
-                    int sum = target - nums[i];
-                    if (map.containsKey(sum)) {
-                        return new int[] { map.get(sum), i };
+                    int complement = target - nums[i];
+                    if (map.containsKey(complement)) {
+                        return new int[] { map.get(complement), i };
                     }
                     map.put(nums[i], i);
                 }
