@@ -35,9 +35,9 @@ public class TwoSum {
                 map.put(nums[i], i);
             }
             for (int i = 0; i < nums.length; i++) {
-                int complement = target - nums[i];
-                if (map.containsKey(complement) && map.get(complement) != i) {
-                    return new int[] { i, map.get(complement) };
+                int sum = target - nums[i];
+                if (map.containsKey(sum) && map.get(sum) != i) {
+                    return new int[] { i, map.get(sum) };
                 }
             }
             // In case there is no solution, we'll just return null
