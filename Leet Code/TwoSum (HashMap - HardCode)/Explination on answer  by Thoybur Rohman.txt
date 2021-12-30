@@ -1,0 +1,16 @@
+
+Solution 1 
+1 - Use 2 if loops ( I and j ) , 
+1.1 - j will be i + 1 as you want the second number not the firt 1 
+2 -The first if loop will get the array position the second loop will be used to add the first position ( I ) to j .
+3 -  If the number at j eg lets say its 5 and the sum is 9 so 9 - i lets say i = 4 then Sum ( 9 ) - i ( 4 ) = 5 
+4 - it wil then return i andf j in an int [] array as it asks for it 
+5 else outside it returns null In case there is no solution, we'll just return null
+
+Solution 2 
+1 - Create a map which will store take int and int 
+2 - use a for loop toiterate through the length of the array 
+3 - sum = the target - the curreent number at the array eg nums[i] so numbs[2] , so lets say 9 - 2 = 7 
+4 - map.contains checks if 7 is in our map 
+4.1 - if it is then return the array [] sum and the position 2
+5 it returns return new int[] { map.get(complement), i }; wich component is the key value and i is the position in the array 
