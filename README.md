@@ -7,3 +7,4 @@ LeetCoding coding algorithm questions and answers - By Thoybur Rohman
 2) Question 2 - lengthOfLongestSubstring ( HashMap Method ) :https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/lengthOfLongestSubstring%20(%20HashMap%20%20Hard%20code)
 3) Question 7 - Valid Parentheses ( Stack Method )  : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/Valid%20Parentheses%20(%20Stack%20)
 4) Question 8 - Merge Two Lists( linked lists ):  https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/blob/main/Leet%20Code/mergeTwoLists.java
+5) Question 9 - Palindrome Number ( if loops ) : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/isPalindrome
