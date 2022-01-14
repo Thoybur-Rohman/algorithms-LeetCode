@@ -1,5 +1,5 @@
-# Leetcode--Questions-List
-LeetCoding coding algorithm questions and answers - By Thoybur Rohman
+# Leetcode-Questions-List - with explained answers By Thoybur Rohman
+## LeetCoding coding algorithm questions and answers - By Thoybur Rohman
 
 # 75 questions ( 6 / 75 )
 
