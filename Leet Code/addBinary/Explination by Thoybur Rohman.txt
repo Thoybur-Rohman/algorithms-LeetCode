@@ -1,0 +1,11 @@
+Type of question - hard code 
+
+step 1 - we use a string builder class as it is asking for a string return 
+step 2 - i and j to set the a and b to length - 1 
+step 3 - i checked while they i or j  are = or smaller than i then the loop will carry on 
+step 4 - it checks both and adds it to the sum 
+step 5 - we add it to the string builder by using sb.insert either its 0 or if it % 2 so it 1 
+step 6 - we get the carry by /2 so if it was 1+1 = 2 so 2 = 2 = 1 so the carry will = 1 . 
+step 7 - the sum is added to the carry 
+step 8 - we check if there is any carry left and add it 
+step 9 we return it as a string 

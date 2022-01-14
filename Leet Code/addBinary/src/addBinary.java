@@ -1,8 +1,8 @@
 public class addBinary {
 
     public static void main(String[] args) {
-        String a = "010101";
-        String b = "11011"
+        String a = "1111000111";
+        String b = "11111";
 
         addBinary(a,b);
     }
@@ -11,6 +11,7 @@ public class addBinary {
 
         int i = a.length()-1;
         int j = b.length()-1;
+        System.out.print(i);
         int carry=0;
         while(i>=0 || j>=0){
             int sum = carry;
@@ -23,10 +24,12 @@ public class addBinary {
             }
             sb.insert(0,sum % 2);
             carry = sum/2;
+
         }
         if (carry>0){
             sb.insert(0,1);
         }
+
         return sb.toString();
     }
 
