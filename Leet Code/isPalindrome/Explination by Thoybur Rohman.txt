@@ -1,0 +1,8 @@
+Type of question : loop
+
+
+step 1 - convert the value of x to string by using String.valueOf(x);
+step 2 - set int end = str.length() -1; as we only want the eliments of the inside loop as it will styart from 0 
+step 3 - put a while loop to check start is smaller than end 
+step 4 - we check the char at start and the char at end , if thet are trhe same we iterate up start and down end the number else return false 
+step 5 - if everything is the same we return true 
