@@ -1,0 +1,39 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+public class PerfectSum {
+
+    public static boolean ArrayChallenge(int[] arr) {
+        int total = arr[arr.length-1];
+        System.out.println("arr " + arr[arr.length-1]);
+        System.out.println("total " + total);
+        arr[arr.length-1] = 0;
+        System.out.println(arr.length-1);
+        int SubSetTotal = (int) Math.pow(2, arr.length - 1);
+        System.out.println("subtotal " + SubSetTotal);
+       // powers it
+        for(int i = 1 ; i < SubSetTotal; i++ ){
+            int sum = 0 ;
+            for(int j = arr.length-2 ; j >=0;j--) {
+                int div = i;
+                System.out.println("div " + div);
+                for (int p = 0; p < j; p++)
+                    div /= 2;
+                System.out.println("div devide " + div);
+                if (div % 2 == 1)
+                    sum += arr[j];
+                System.out.println("sum " + sum);
+            }
+
+            if (sum == total)
+                return true;
+        }
+        return false;
+    }
+
+    public static void main(String[] args) {
+       int set[] = {-1, 2, 3, 4, 3,10};
+        System.out.println(ArrayChallenge(set));
+    }
+}
