@@ -9,3 +9,4 @@
 4) Question 8 - Merge Two Lists( linked lists ):  https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/blob/main/Leet%20Code/mergeTwoLists.java
 5) Question 9 - Palindrome Number ( if loops ) : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/isPalindrome
 6) Question 67 - Add Binary (if loops ) :https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/addBinary
+7) Question 66 - PlusOnw : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/blob/main/Leet%20Code/PlusOne/PlusOne.java
