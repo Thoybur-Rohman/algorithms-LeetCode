@@ -10,3 +10,4 @@
 5) Question 9 - Palindrome Number ( if loops ) : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/isPalindrome
 6) Question 67 - Add Binary (if loops ) :https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/addBinary
 7) Question 66 - PlusOnw : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/blob/main/Leet%20Code/PlusOne/PlusOne.java
+8) Question 1281 - subtractProductAndSum : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/subtractProductAndSum 
