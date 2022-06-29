@@ -1,0 +1,16 @@
+step 1 - convert int into string 
+
+ 	String temp = Integer.toString(guess);
+
+step 2 - iterate through the string andf add toi a dummy array 
+
+	int [] newGuess = new int[temp.length()];
+
+step 3 - create a 2 varilae to store the multiplication and addition 
+
+
+	Int  Multiply;
+  int addition;
+	int sum 
+
+step 4 - make for looops to add or multiply 
