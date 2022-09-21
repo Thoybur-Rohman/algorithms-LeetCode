@@ -14,3 +14,5 @@
 10) Question ( ? ) - Container With Most Water Difficulty	: ${\color{Orange}Medium}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/maxAreaOfContainer
 11) Question 42 - Trapping Rain Water Difficulty	: ${\color{Red}Hard}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/Trapping%20Rain%20Water
 Leet Code explination : https://leetcode.com/problems/trapping-rain-water/discuss/2600201/Java-Line-By-Line-Explained-Simple-and-easy-by-university-student 
+12) 100. Same Tree Difficulty	: ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/SameTree
+Leet Code explination : https://leetcode.com/problems/same-tree/discuss/2605970/Easy-to-understand-Java-solution-explained-line-by-line
