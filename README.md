@@ -12,3 +12,5 @@
 8) Question 1281 - subtractProductAndSum Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/subtractProductAndSum 
 9) Question 2236 - RootEqualsSumofChildren Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/Root%20Equals%20Sum%20of%20Children
 10) Question ( ? ) - Container With Most Water Difficulty	: ${\color{Orange}Medium}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/maxAreaOfContainer
+11) Question 42 - Trapping Rain Water Difficulty	: ${\color{Red}Hard}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/Trapping%20Rain%20Water
+Leet Code explination : https://leetcode.com/problems/trapping-rain-water/discuss/2600201/Java-Line-By-Line-Explained-Simple-and-easy-by-university-student 
