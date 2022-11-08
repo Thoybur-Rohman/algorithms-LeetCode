@@ -16,5 +16,6 @@
 Leet Code explination : https://leetcode.com/problems/trapping-rain-water/discuss/2600201/Java-Line-By-Line-Explained-Simple-and-easy-by-university-student 
 12) Question 100 - Same Tree Difficulty	: ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/SameTree
 Leet Code explination : https://leetcode.com/problems/same-tree/discuss/2605970/Easy-to-understand-Java-solution-explained-line-by-line
-13 )Question 13 Roman to Integer : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/blob/main/Leet%20Code/RoamanInt/romanToInt.java
+13) Question 13 Roman to Integer : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/blob/main/Leet%20Code/RoamanInt/romanToInt.java
 LeetCode explination : https://leetcode.com/problems/roman-to-integer/discuss/2617848/Easy-Line-by-line-of-main-areas-explained-5ms-94-faster
+14) Question 217 Contains Duplicate  ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/blob/main/Leet%20Code/217.%20Contains%20Duplicate/Contains%20Duplicate.cs
