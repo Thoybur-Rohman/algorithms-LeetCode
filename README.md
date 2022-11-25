@@ -1,5 +1,5 @@
 # Leetcode-Questions-List - with explained answers By Thoybur Rohman
-# Leet Code - https://leetcode.com/Thoybur-Rohman/
+# Leet Code - https://leetcode.com/Thoybur/
 ## LeetCoding coding algorithm questions and answers - By Thoybur Rohman
 
 
