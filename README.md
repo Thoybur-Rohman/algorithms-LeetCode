@@ -22,4 +22,5 @@ LeetCode explination : https://leetcode.com/problems/roman-to-integer/discuss/26
 14) Question 217 Contains Duplicate  ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/blob/main/Leet%20Code/217.%20Contains%20Duplicate/Contains%20Duplicate.cs
 15) Question 101. Symmetric Tree  ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/blob/main/Leet%20Code/IsSymmetric/IsSymmetric LeetCode : https://leetcode.com/problems/symmetric-tree/solutions/2820247/recursive-c/
 16) Question 58. Length of Last Word ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/blob/main/Leet%20Code/LengthOfLastWord/LengthOfLastWord.CS Leet Code explination : https://leetcode.com/problems/length-of-last-word/solutions/2836076/c-solution-simple-and-easy/
+17) 1784 Check if Binary String Has at Most One Segment of Ones ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/blob/main/Leet%20Code/CheckOnesSegment/CheckOnesSegment.cs LeetCode : https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/solutions/2846404/c-easy-and-simple-to-understand/
 
