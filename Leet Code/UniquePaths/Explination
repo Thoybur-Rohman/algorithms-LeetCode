@@ -1,0 +1,14 @@
+- Intuition
+
+The grid is m x n, meaning that it is a two-dimensional array
+Robots start at grid[0][0] before moving forward.
+A robot's destination will always be grid[m - 1][n - 1]) which is the bottom right corner
+Whenever a robot moves, it can only go down or right.
+The number of unique paths that the robot can take to reach the bottom-right corner should be computed.
+
+- Approach
+
+Make use of an array
+Find all paths in the array by iterating through it
+The first row and column will be 1s, and the surrounding rows and columns will be added
+returns the sum of [m - 1][n - 1] in the grid.
