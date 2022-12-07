@@ -25,4 +25,4 @@ LeetCode explination : https://leetcode.com/problems/roman-to-integer/discuss/26
 17) 1784 Check if Binary String Has at Most One Segment of Ones ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/blob/main/Leet%20Code/CheckOnesSegment/CheckOnesSegment.cs LeetCode : https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/solutions/2846404/c-easy-and-simple-to-understand/
 18) Question 125  Valid Palindrome ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/blob/main/Leet%20Code/ValidPalindrome/125ValidPalindrome.cs LeetCode : https://leetcode.com/problems/valid-palindrome/solutions/2854854/c-easy-line-by-line/
 19) Question 62 Unique Paths ${\color{Orange}Medium}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/blob/main/Leet%20Code/UniquePaths/UniquePaths.cs Leet code : https://leetcode.com/problems/valid-palindrome/solutions/2854854/c-easy-line-by-line/
-
+20) Codility -Microsoft Online Assessment (OA) - Day of week that is K days later / https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/daysOfTheWeek
