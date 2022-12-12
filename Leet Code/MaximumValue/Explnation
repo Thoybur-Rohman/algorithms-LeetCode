@@ -1,0 +1,22 @@
+Inuition
+Given an array strs of alphanumeric strings, return the maximum value of any string in strs.
+strs[i] consists of only lowercase English letters and digits
+
+Approach
+First initialize variables ( count , string stored in ch and maxTotal)
+We then loop through each word eg [cat, dog1, hat66] our letter at ch[i] when I = 0 would be cat and so on etc.
+Initialize boolean to see if we have found a letter
+Loop through each individual letter in the word, e.g. ch[0][0] would be "cat" (using our previous example) and the second [0] would be c so e.g. ch[i][j]
+We then have 2 if statements, 1 checks if it's a letter and the next if its a digit.
+
+LETTER CHECKS
+First, if j is between a and z
+If it's a letter change letterFound to true
+Add to count
+
+DIGIT CHECKS
+Checks if the number is between 0 and 9 adds to count
+Finally, we have an if statement checks if letterFound = true meaning the word contains a letter if so we do maxTotal = the biggest number between the current max vs. the counted
+Else we do the maximum between the current max and the string int value at point ch[i] NOT ch[i][j]
+Count is reset
+maxTotal is returned
