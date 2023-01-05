@@ -4,6 +4,7 @@
 
 
 1) Question 1 - twoSum ( HashMap Method and Hard Code  ) Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/TwoSum%20(HashMap%20-%20HardCode)
+2) Question 944 Delete Columns to Make Sorted Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/Delete_Columns_to_Make_Sorted_944 LeetCode : https://leetcode.com/problems/delete-columns-to-make-sorted/solutions/3000606/explained-well-with-pictures-c/
 2) Question 2 - lengthOfLongestSubstring ( HashMap Method ) Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/lengthOfLongestSubstring%20(%20HashMap%20%20Hard%20code)
 3) Question 7 - Valid Parentheses ( Stack Method ) Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/Valid%20Parentheses%20(%20Stack%20)
 4) Question 8 - Merge Two Lists( linked lists ) Difficulty : ${\color{Green}Easy}$ :  https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/blob/main/Leet%20Code/mergeTwoLists.java
@@ -32,3 +33,4 @@ LeetCode explination : https://leetcode.com/problems/roman-to-integer/discuss/26
 27) 19) Question 62 Unique Paths ${\color{Orange}Medium}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/blob/main/Leet%20Code/UniquePaths/UniquePaths.cs Leet code : https://leetcode.com/problems/valid-palindrome/solutions/2854854/c-easy-line-by-line/
 28) Question 4.Median of Two Sorted Arrays ${\color{Red}Hard}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/Median_of_Two_Sorted_Arrays_4 LeetCode : https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/2989214/simple-easy-c-solution/
 29) Question 42 - Trapping Rain Water Difficulty	: ${\color{Red}Hard}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/Trapping%20Rain%20Water LeetCode : https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/2989214/simple-easy-c-solution/
+
