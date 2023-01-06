@@ -1,16 +1,17 @@
 # Intuition
-length n = number of ice cream bars.
-costs[i] = price of each ice cream bar.
-coins = money of how much it available.
+
+- length n = number of ice cream bars.
+- costs[i] = price of each ice cream bar.
+- coins = money of how much it available.
 
 The boy initially has coins to spend, and he wants to buy as many ice cream bars as possible.
 
 Constraints:
 
-costs.length == n
-1 <= n <= 105
-1 <= costs[i] <= 105
-1 <= coins <= 108
+- costs.length == n
+- 1 <= n <= 105
+- 1 <= costs[i] <= 105
+- 1 <= coins <= 108
 
 # Approach
 We first create a int count to store the count of how many ice creams we can buy.
