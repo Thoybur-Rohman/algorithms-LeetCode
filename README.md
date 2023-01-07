@@ -9,6 +9,7 @@
 3) Question 7 - Valid Parentheses ( Stack Method ) Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/Valid%20Parentheses%20(%20Stack%20)
 4) Question 8 - Merge Two Lists( linked lists ) Difficulty : ${\color{Green}Easy}$ :  https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/blob/main/Leet%20Code/mergeTwoLists.java
 5) Question 9 - Palindrome Number ( if loops ) Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/isPalindrome
+6) Question 1475. Final Prices With a Special Discount in a Shop  Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/Final_Prices_With_a_Special_Discount_in_a_Shop_1475 LeetCode: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/solutions/3011049/easy-and-simple-explained-line-by-line-c-c/
 6) Question 67 - Add Binary (if loops ) Difficulty : ${\color{Green}Easy}$  : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/addBinary
 7) Question 66 - PlusOnw Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/blob/main/Leet%20Code/PlusOne/PlusOne.java
 8) Question 1281 - subtractProductAndSum Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/subtractProductAndSum 
