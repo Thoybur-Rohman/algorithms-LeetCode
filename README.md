@@ -14,6 +14,7 @@
 7) Question 1920. Build Array from Permutation  Difficulty : ${\color{Green}Easy}$  : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/Build%20Array%20from%20Permutation
 7) Question 66 - PlusOnw Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/blob/main/Leet%20Code/PlusOne/PlusOne.java
 8) Question 1281 - subtractProductAndSum Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/subtractProductAndSum 
+9) Question 2418. Sort the People Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/blob/main/Leet%20Code/2418_Sort_the_People/BuildArray.cs LeetCode : https://leetcode.com/problems/build-array-from-permutation/solutions/3056438/c-easy-and-explained/
 9) Question 2236 - RootEqualsSumofChildren Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/Root%20Equals%20Sum%20of%20Children
 Leet Code explination : https://leetcode.com/problems/trapping-rain-water/discuss/2600201/Java-Line-By-Line-Explained-Simple-and-easy-by-university-student 
 12) Question 100 - Same Tree Difficulty	: ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/SameTree
