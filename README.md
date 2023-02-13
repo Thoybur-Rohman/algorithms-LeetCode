@@ -13,6 +13,7 @@
 6) Question 67 - Add Binary (if loops ) Difficulty : ${\color{Green}Easy}$  : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/addBinary
 7) Question 1920. Build Array from Permutation  Difficulty : ${\color{Green}Easy}$  : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/Build%20Array%20from%20Permutation
 7) Question 66 - PlusOnw Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/blob/main/Leet%20Code/PlusOne/PlusOne.java
+8) Question 141 141. Linked List Cycle Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/141_Linked_List_Cycle 
 8) Question 1281 - subtractProductAndSum Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/programming-algorithms-LeetCode/tree/main/Leet%20Code/subtractProductAndSum 
 9) Question 2418. Sort the People Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/blob/main/Leet%20Code/2418_Sort_the_People/BuildArray.cs LeetCode : https://leetcode.com/problems/build-array-from-permutation/solutions/3056438/c-easy-and-explained/
 10) Question 112 - Path Sum  Difficulty : ${\color{Green}Easy}$ : https://github.com/Thoybur-Rohman/algorithms-LeetCode/tree/main/Leet%20Code/112_Path_Sum
