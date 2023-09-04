@@ -1,0 +1,11 @@
+Create two variables, m and n, to store the length of word1 and word2.
+Create an empty string variable result to store the result of merged words.
+Create two pointers, i and j to point to indices of word1 and word2. We initialize both of them to 0.
+While i < m || j < n:
+If i < m, it means that we have not completely traversed word1. As a result, we append word1[i] to result. We increment i to point to next index of words.
+If j < n, it means that we have not completely traversed word2. As a result, we append word2[j] to result. We increment j to point to next index of words.
+Return results.
+It is important to note how we form the result string in the following codes:
+- cpp: The strings are mutable in cpp, which means they can be changed. As a result, we used the string variable and performed all operations on it. It takes constant time to append a character to the string.
+- java: The String class is immutable in java. So we used the mutable StringBuilder to concatenate letters to result.
+- python: Strings are immutable in python as well. As a result, we used the list result to append letters and later joined the list with an empty string to return it as a string object. The join operation takes linear time equal to the length of results to merge results with empty string.
